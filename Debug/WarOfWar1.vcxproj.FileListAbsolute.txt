@@ -1,0 +1,2 @@
+D:\SJ\C++\WarOfWar1\Debug\WarOfWar1.exe
+D:\SJ\C++\WarOfWar1\Debug\WarOfWar1.pdb

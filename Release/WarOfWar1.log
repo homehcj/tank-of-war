@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  Cboss.cpp
+D:\SJ\Object\WarOfWar1\Cboss.cpp(49,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Cfire.cpp
+  Crecordpoint.cpp
+  CTank.cpp
+  CWall.cpp
+  WarOfWar1.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 298 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  WarOfWar1.vcxproj -> D:\SJ\Object\WarOfWar1\Release\WarOfWar1.exe
